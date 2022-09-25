@@ -1,0 +1,15 @@
+#use_cache "/home/vagrant/hackathon_files/opencv-3.4.5/.cache"
+#do_unpack "ippicv_2019_lnx_intel64_general_20180723.tgz" "c0bd78adb4156bbf552c1dfe90599607" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/32e315a5b106a7b89dbed51c28f8120a48b368b4/ippicv/ippicv_2019_lnx_intel64_general_20180723.tgz" "/home/vagrant/hackathon_files/opencv-3.4.5/build/3rdparty/ippicv"
+#cmake_download "/home/vagrant/hackathon_files/opencv-3.4.5/.cache/ippicv/c0bd78adb4156bbf552c1dfe90599607-ippicv_2019_lnx_intel64_general_20180723.tgz" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/32e315a5b106a7b89dbed51c28f8120a48b368b4/ippicv/ippicv_2019_lnx_intel64_general_20180723.tgz"
+# Hostname was NOT found in DNS cache
+#   Trying 151.101.0.133...
+# Connected to raw.githubusercontent.com (151.101.0.133) port 443 (#0)
+# successfully set certificate verify locations:
+#   CAfile: none
+#   CApath: /etc/ssl/certs
+# SSLv3, TLS handshake, Client hello (1):
+# 
+
+#check_md5 "/home/vagrant/hackathon_files/opencv-3.4.5/.cache/ippicv/c0bd78adb4156bbf552c1dfe90599607-ippicv_2019_lnx_intel64_general_20180723.tgz"
+#mkdir "/home/vagrant/hackathon_files/opencv-3.4.5/build/3rdparty/ippicv"
+#unpack "/home/vagrant/hackathon_files/opencv-3.4.5/build/3rdparty/ippicv" "/home/vagrant/hackathon_files/opencv-3.4.5/.cache/ippicv/c0bd78adb4156bbf552c1dfe90599607-ippicv_2019_lnx_intel64_general_20180723.tgz"

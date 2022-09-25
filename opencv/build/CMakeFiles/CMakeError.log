@@ -1,0 +1,680 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cxx11.cpp'
+    check option: ''
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -fsigned-char'
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_sse.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_sse2.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_sse3.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_ssse3.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_sse41.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_popcnt.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_sse42.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_fp16.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_avx.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_avx2.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_avx512.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/cmake/checks/cpu_avx512skx.cpp'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' '
+===== BUILD LOG =====
+
+===== END =====
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Build output check failed:
+    Regex: 'command line option .* is valid for .* but not for C\+\+'
+    Output line: 'cc1plus: warning: command line option '-Wmissing-prototypes' is valid for C/ObjC but not for C++ [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations  -Wmissing-prototypes'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3934983900/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3934983900.dir/build.make CMakeFiles/cmTryCompileExec3934983900.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3934983900.dir/src.cxx.o
+/usr/bin/c++    -O3 -DNDEBUG -fPIE   -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -o CMakeFiles/cmTryCompileExec3934983900.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: warning: command line option '-Wmissing-prototypes' is valid for C/ObjC but not for C++ [enabled by default]
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+Linking CXX executable cmTryCompileExec3934983900
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3934983900.dir/link.txt --verbose=1
+/usr/bin/c++     -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec3934983900.dir/src.cxx.o  -o cmTryCompileExec3934983900 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command line option .* is valid for .* but not for C\+\+'
+    Output line: 'cc1plus: warning: command line option '-Wstrict-prototypes' is valid for C/ObjC but not for C++ [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations  -Wstrict-prototypes'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1361644288/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1361644288.dir/build.make CMakeFiles/cmTryCompileExec1361644288.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1361644288.dir/src.cxx.o
+/usr/bin/c++    -O3 -DNDEBUG -fPIE   -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wstrict-prototypes -o CMakeFiles/cmTryCompileExec1361644288.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: warning: command line option '-Wstrict-prototypes' is valid for C/ObjC but not for C++ [enabled by default]
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+Linking CXX executable cmTryCompileExec1361644288
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1361644288.dir/link.txt --verbose=1
+/usr/bin/c++     -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec1361644288.dir/src.cxx.o  -o cmTryCompileExec1361644288 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command line option '-Wsign-promo' is valid for C++/ObjC++ but not for C [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c'
+    check option: ' -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow  -Wsign-promo'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec4009418172/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4009418172.dir/build.make CMakeFiles/cmTryCompileExec4009418172.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4009418172.dir/src.c.o
+/usr/bin/cc   -O3 -DNDEBUG -fPIE   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -o CMakeFiles/cmTryCompileExec4009418172.dir/src.c.o   -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-Wsign-promo' is valid for C++/ObjC++ but not for C [enabled by default]
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+Linking C executable cmTryCompileExec4009418172
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4009418172.dir/link.txt --verbose=1
+/usr/bin/cc    -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec4009418172.dir/src.c.o  -o cmTryCompileExec4009418172 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command line option '-Wno-delete-non-virtual-dtor' is valid for C++/ObjC++ but not for C [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c'
+    check option: ' -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wuninitialized -Winit-self -Wno-narrowing  -Wno-delete-non-virtual-dtor'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec494306586/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec494306586.dir/build.make CMakeFiles/cmTryCompileExec494306586.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec494306586.dir/src.c.o
+/usr/bin/cc   -O3 -DNDEBUG -fPIE   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -o CMakeFiles/cmTryCompileExec494306586.dir/src.c.o   -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-Wno-delete-non-virtual-dtor' is valid for C++/ObjC++ but not for C [enabled by default]
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+Linking C executable cmTryCompileExec494306586
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec494306586.dir/link.txt --verbose=1
+/usr/bin/cc    -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec494306586.dir/src.c.o  -o cmTryCompileExec494306586 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1plus: warning: unrecognized command line option "-Wno-unnamed-type-template-args" [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor  -Wno-unnamed-type-template-args'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3415183954/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3415183954.dir/build.make CMakeFiles/cmTryCompileExec3415183954.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3415183954.dir/src.cxx.o
+/usr/bin/c++    -O3 -DNDEBUG -fPIE   -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -o CMakeFiles/cmTryCompileExec3415183954.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1plus: warning: unrecognized command line option "-Wno-unnamed-type-template-args" [enabled by default]
+Linking CXX executable cmTryCompileExec3415183954
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3415183954.dir/link.txt --verbose=1
+/usr/bin/c++     -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec3415183954.dir/src.cxx.o  -o cmTryCompileExec3415183954 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1: warning: unrecognized command line option "-Wno-unnamed-type-template-args" [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c'
+    check option: ' -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wuninitialized -Winit-self -Wno-narrowing  -Wno-unnamed-type-template-args'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec649307665/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec649307665.dir/build.make CMakeFiles/cmTryCompileExec649307665.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec649307665.dir/src.c.o
+/usr/bin/cc   -O3 -DNDEBUG -fPIE   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wuninitialized -Winit-self -Wno-narrowing -Wno-unnamed-type-template-args -o CMakeFiles/cmTryCompileExec649307665.dir/src.c.o   -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1: warning: unrecognized command line option "-Wno-unnamed-type-template-args" [enabled by default]
+Linking C executable cmTryCompileExec649307665
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec649307665.dir/link.txt --verbose=1
+/usr/bin/cc    -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec649307665.dir/src.c.o  -o cmTryCompileExec649307665 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command line option '-fvisibility-inlines-hidden' is valid for C++/ObjC++ but not for C [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c'
+    check option: ' -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wuninitialized -Winit-self -Wno-narrowing -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden  -fvisibility-inlines-hidden'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec825593362/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec825593362.dir/build.make CMakeFiles/cmTryCompileExec825593362.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec825593362.dir/src.c.o
+/usr/bin/cc   -O3 -DNDEBUG -fPIE   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wuninitialized -Winit-self -Wno-narrowing -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/cmTryCompileExec825593362.dir/src.c.o   -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-fvisibility-inlines-hidden' is valid for C++/ObjC++ but not for C [enabled by default]
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+Linking C executable cmTryCompileExec825593362
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec825593362.dir/link.txt --verbose=1
+/usr/bin/cc    -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec825593362.dir/src.c.o  -o cmTryCompileExec825593362 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Determining if the system is big endian passed with the following output:
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1674756011/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1674756011.dir/build.make CMakeFiles/cmTryCompileExec1674756011.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1674756011.dir/TestEndianess.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wuninitialized -Winit-self -Wno-narrowing -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden  -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTryCompileExec1674756011.dir/TestEndianess.c.o   -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/TestEndianess.c
+Linking C executable cmTryCompileExec1674756011
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1674756011.dir/link.txt --verbose=1
+/usr/bin/cc     -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wuninitialized -Winit-self -Wno-narrowing -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden  -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec1674756011.dir/TestEndianess.c.o  -o cmTryCompileExec1674756011 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+TestEndianess.c:
+/* A 16 bit integer is required. */
+typedef unsigned short cmakeint16;
+
+/* On a little endian machine, these 16bit ints will give "THIS IS LITTLE ENDIAN."
+   On a big endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_little[] =  {0x4854, 0x5349, 0x4920, 0x2053, 0x494c, 0x5454, 0x454c, 0x4520, 0x444e, 0x4149, 0x2e4e, 0x0000};
+
+/* on a big endian machine, these 16bit ints will give "THIS IS BIG ENDIAN."
+   On a little endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_big[] =     {0x5448, 0x4953, 0x2049, 0x5320, 0x4249, 0x4720, 0x454e, 0x4449, 0x414e, 0x2e2e, 0x0000};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_little[argc];
+  require += info_big[argc];
+  (void)argv;
+  return require;
+}
+
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1: warning: unrecognized command line option "-Wno-implicit-fallthrough" [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c'
+    check option: ' -Wno-implicit-fallthrough'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3231862257/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3231862257.dir/build.make CMakeFiles/cmTryCompileExec3231862257.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3231862257.dir/src.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wuninitialized -Winit-self -Wno-narrowing -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -Wno-unused-variable -Wno-unused-function -Wno-shadow -Wno-maybe-uninitialized -Wno-missing-prototypes -Wno-missing-declarations  -O3 -DNDEBUG -fPIE   -Wno-implicit-fallthrough -o CMakeFiles/cmTryCompileExec3231862257.dir/src.c.o   -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.c:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1: warning: unrecognized command line option "-Wno-implicit-fallthrough" [enabled by default]
+Linking C executable cmTryCompileExec3231862257
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3231862257.dir/link.txt --verbose=1
+/usr/bin/cc     -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wuninitialized -Winit-self -Wno-narrowing -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -Wno-unused-variable -Wno-unused-function -Wno-shadow -Wno-maybe-uninitialized -Wno-missing-prototypes -Wno-missing-declarations  -O3 -DNDEBUG     -Wl,--gc-sections CMakeFiles/cmTryCompileExec3231862257.dir/src.c.o  -o cmTryCompileExec3231862257 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1plus: warning: unrecognized command line option "-Wno-misleading-indentation" [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -Wno-misleading-indentation'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1609513786/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1609513786.dir/build.make CMakeFiles/cmTryCompileExec1609513786.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1609513786.dir/src.cxx.o
+/usr/bin/c++    -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wsign-promo -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-shadow -Wno-unused -Wno-sign-compare -Wno-undef -Wno-missing-declarations -Wno-uninitialized -Wno-switch -Wno-parentheses -Wno-array-bounds -Wno-extra -Wno-deprecated-declarations  -O3 -DNDEBUG -fPIE   -Wno-misleading-indentation -o CMakeFiles/cmTryCompileExec1609513786.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1plus: warning: unrecognized command line option "-Wno-misleading-indentation" [enabled by default]
+Linking CXX executable cmTryCompileExec1609513786
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1609513786.dir/link.txt --verbose=1
+/usr/bin/c++      -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wsign-promo -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-shadow -Wno-unused -Wno-sign-compare -Wno-undef -Wno-missing-declarations -Wno-uninitialized -Wno-switch -Wno-parentheses -Wno-array-bounds -Wno-extra -Wno-deprecated-declarations  -O3 -DNDEBUG     -Wl,--gc-sections CMakeFiles/cmTryCompileExec1609513786.dir/src.cxx.o  -o cmTryCompileExec1609513786 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1plus: warning: unrecognized command line option "-Wno-suggest-override" [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -Wno-suggest-override'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec477036720/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec477036720.dir/build.make CMakeFiles/cmTryCompileExec477036720.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec477036720.dir/src.cxx.o
+/usr/bin/c++    -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wsign-promo -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-shadow -Wno-unused -Wno-sign-compare -Wno-undef -Wno-missing-declarations -Wno-uninitialized -Wno-switch -Wno-parentheses -Wno-array-bounds -Wno-extra -Wno-deprecated-declarations -Wno-deprecated  -O3 -DNDEBUG -fPIE   -Wno-suggest-override -o CMakeFiles/cmTryCompileExec477036720.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1plus: warning: unrecognized command line option "-Wno-suggest-override" [enabled by default]
+Linking CXX executable cmTryCompileExec477036720
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec477036720.dir/link.txt --verbose=1
+/usr/bin/c++      -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wsign-promo -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-shadow -Wno-unused -Wno-sign-compare -Wno-undef -Wno-missing-declarations -Wno-uninitialized -Wno-switch -Wno-parentheses -Wno-array-bounds -Wno-extra -Wno-deprecated-declarations -Wno-deprecated  -O3 -DNDEBUG     -Wl,--gc-sections CMakeFiles/cmTryCompileExec477036720.dir/src.cxx.o  -o cmTryCompileExec477036720 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1plus: warning: unrecognized command line option "-Wno-inconsistent-missing-override" [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -Wno-inconsistent-missing-override'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2940499915/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2940499915.dir/build.make CMakeFiles/cmTryCompileExec2940499915.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2940499915.dir/src.cxx.o
+/usr/bin/c++    -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wsign-promo -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-shadow -Wno-unused -Wno-sign-compare -Wno-undef -Wno-missing-declarations -Wno-uninitialized -Wno-switch -Wno-parentheses -Wno-array-bounds -Wno-extra -Wno-deprecated-declarations -Wno-deprecated  -O3 -DNDEBUG -fPIE   -Wno-inconsistent-missing-override -o CMakeFiles/cmTryCompileExec2940499915.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1plus: warning: unrecognized command line option "-Wno-inconsistent-missing-override" [enabled by default]
+Linking CXX executable cmTryCompileExec2940499915
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2940499915.dir/link.txt --verbose=1
+/usr/bin/c++      -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wsign-promo -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-shadow -Wno-unused -Wno-sign-compare -Wno-undef -Wno-missing-declarations -Wno-uninitialized -Wno-switch -Wno-parentheses -Wno-array-bounds -Wno-extra -Wno-deprecated-declarations -Wno-deprecated  -O3 -DNDEBUG     -Wl,--gc-sections CMakeFiles/cmTryCompileExec2940499915.dir/src.cxx.o  -o cmTryCompileExec2940499915 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1plus: warning: unrecognized command line option "-Wno-implicit-fallthrough" [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -Wno-implicit-fallthrough'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3822731957/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3822731957.dir/build.make CMakeFiles/cmTryCompileExec3822731957.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3822731957.dir/src.cxx.o
+/usr/bin/c++    -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wsign-promo -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-shadow -Wno-unused -Wno-sign-compare -Wno-undef -Wno-missing-declarations -Wno-uninitialized -Wno-switch -Wno-parentheses -Wno-array-bounds -Wno-extra -Wno-deprecated-declarations -Wno-deprecated  -O3 -DNDEBUG -fPIE   -Wno-implicit-fallthrough -o CMakeFiles/cmTryCompileExec3822731957.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1plus: warning: unrecognized command line option "-Wno-implicit-fallthrough" [enabled by default]
+Linking CXX executable cmTryCompileExec3822731957
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3822731957.dir/link.txt --verbose=1
+/usr/bin/c++      -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wsign-promo -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-shadow -Wno-unused -Wno-sign-compare -Wno-undef -Wno-missing-declarations -Wno-uninitialized -Wno-switch -Wno-parentheses -Wno-array-bounds -Wno-extra -Wno-deprecated-declarations -Wno-deprecated  -O3 -DNDEBUG     -Wl,--gc-sections CMakeFiles/cmTryCompileExec3822731957.dir/src.cxx.o  -o cmTryCompileExec3822731957 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Determining if the include file linux/videodev.h exists failed with the following output:
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3109625442/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3109625442.dir/build.make CMakeFiles/cmTryCompileExec3109625442.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3109625442.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wuninitialized -Winit-self -Wno-narrowing -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden  -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTryCompileExec3109625442.dir/CheckIncludeFile.c.o   -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:28: fatal error: linux/videodev.h: No such file or directory
+ #include <linux/videodev.h>
+                            ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTryCompileExec3109625442.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec3109625442/fast] Error 2
+
+
+Determining if the include file sys/videoio.h exists failed with the following output:
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3061157462/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3061157462.dir/build.make CMakeFiles/cmTryCompileExec3061157462.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3061157462.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wuninitialized -Winit-self -Wno-narrowing -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden  -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTryCompileExec3061157462.dir/CheckIncludeFile.c.o   -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:25: fatal error: sys/videoio.h: No such file or directory
+ #include <sys/videoio.h>
+                         ^
+compilation terminated.
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec3061157462.dir/CheckIncludeFile.c.o] Error 1
+make: *** [cmTryCompileExec3061157462/fast] Error 2
+
+
+Build output check failed:
+    Regex: 'command line option .* is valid for .* but not for C\+\+'
+    Output line: 'cc1plus: warning: command line option '-Wno-missing-prototypes' is valid for C/ObjC but not for C++ [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -Wno-missing-prototypes'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3360954874/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3360954874.dir/build.make CMakeFiles/cmTryCompileExec3360954874.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3360954874.dir/src.cxx.o
+/usr/bin/c++    -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-deprecated  -O3 -DNDEBUG -fPIE   -Wno-missing-prototypes -o CMakeFiles/cmTryCompileExec3360954874.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: warning: command line option '-Wno-missing-prototypes' is valid for C/ObjC but not for C++ [enabled by default]
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+Linking CXX executable cmTryCompileExec3360954874
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3360954874.dir/link.txt --verbose=1
+/usr/bin/c++      -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-deprecated  -O3 -DNDEBUG     -Wl,--gc-sections CMakeFiles/cmTryCompileExec3360954874.dir/src.cxx.o  -o cmTryCompileExec3360954874 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1plus: warning: unrecognized command line option "-Wno-tautological-undefined-compare" [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -Wno-tautological-undefined-compare'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3209361283/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3209361283.dir/build.make CMakeFiles/cmTryCompileExec3209361283.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3209361283.dir/src.cxx.o
+/usr/bin/c++    -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-deprecated -Wno-missing-declarations -Wno-shadow -Wno-unused-parameter -Wno-unused-local-typedefs -Wno-sign-compare -Wno-sign-promo -Wno-undef  -O3 -DNDEBUG -fPIE   -Wno-tautological-undefined-compare -o CMakeFiles/cmTryCompileExec3209361283.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1plus: warning: unrecognized command line option "-Wno-tautological-undefined-compare" [enabled by default]
+Linking CXX executable cmTryCompileExec3209361283
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3209361283.dir/link.txt --verbose=1
+/usr/bin/c++      -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-deprecated -Wno-missing-declarations -Wno-shadow -Wno-unused-parameter -Wno-unused-local-typedefs -Wno-sign-compare -Wno-sign-promo -Wno-undef  -O3 -DNDEBUG     -Wl,--gc-sections CMakeFiles/cmTryCompileExec3209361283.dir/src.cxx.o  -o cmTryCompileExec3209361283 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1plus: warning: unrecognized command line option "-Wno-unused-const-variable" [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -Wno-unused-const-variable'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1469583963/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1469583963.dir/build.make CMakeFiles/cmTryCompileExec1469583963.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1469583963.dir/src.cxx.o
+/usr/bin/c++    -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-deprecated -Wno-missing-declarations -Wno-shadow -Wno-unused-parameter -Wno-unused-local-typedefs -Wno-sign-compare -Wno-sign-promo -Wno-undef -Wno-ignored-qualifiers -Wno-extra -Wno-unused-function  -O3 -DNDEBUG -fPIE   -Wno-unused-const-variable -o CMakeFiles/cmTryCompileExec1469583963.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1plus: warning: unrecognized command line option "-Wno-unused-const-variable" [enabled by default]
+Linking CXX executable cmTryCompileExec1469583963
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1469583963.dir/link.txt --verbose=1
+/usr/bin/c++      -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-deprecated -Wno-missing-declarations -Wno-shadow -Wno-unused-parameter -Wno-unused-local-typedefs -Wno-sign-compare -Wno-sign-promo -Wno-undef -Wno-ignored-qualifiers -Wno-extra -Wno-unused-function  -O3 -DNDEBUG     -Wl,--gc-sections CMakeFiles/cmTryCompileExec1469583963.dir/src.cxx.o  -o cmTryCompileExec1469583963 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1plus: warning: unrecognized command line option "-Wno-shorten-64-to-32" [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -Wno-shorten-64-to-32'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec4228788626/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4228788626.dir/build.make CMakeFiles/cmTryCompileExec4228788626.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec4228788626.dir/src.cxx.o
+/usr/bin/c++    -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-deprecated -Wno-missing-declarations -Wno-shadow -Wno-unused-parameter -Wno-unused-local-typedefs -Wno-sign-compare -Wno-sign-promo -Wno-undef -Wno-ignored-qualifiers -Wno-extra -Wno-unused-function  -O3 -DNDEBUG -fPIE   -Wno-shorten-64-to-32 -o CMakeFiles/cmTryCompileExec4228788626.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1plus: warning: unrecognized command line option "-Wno-shorten-64-to-32" [enabled by default]
+Linking CXX executable cmTryCompileExec4228788626
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4228788626.dir/link.txt --verbose=1
+/usr/bin/c++      -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-deprecated -Wno-missing-declarations -Wno-shadow -Wno-unused-parameter -Wno-unused-local-typedefs -Wno-sign-compare -Wno-sign-promo -Wno-undef -Wno-ignored-qualifiers -Wno-extra -Wno-unused-function  -O3 -DNDEBUG     -Wl,--gc-sections CMakeFiles/cmTryCompileExec4228788626.dir/src.cxx.o  -o cmTryCompileExec4228788626 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1plus: warning: unrecognized command line option "-Wno-enum-compare-switch" [enabled by default]'
+Compilation failed:
+    source file: '/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -Wno-enum-compare-switch'
+===== BUILD LOG =====
+Change Dir: /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1290590984/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1290590984.dir/build.make CMakeFiles/cmTryCompileExec1290590984.dir/build
+make[1]: Entering directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1290590984.dir/src.cxx.o
+/usr/bin/c++    -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-deprecated -Wno-missing-declarations -Wno-shadow -Wno-unused-parameter -Wno-unused-local-typedefs -Wno-sign-compare -Wno-sign-promo -Wno-undef -Wno-ignored-qualifiers -Wno-extra -Wno-unused-function -Wno-invalid-offsetof  -O3 -DNDEBUG -fPIE   -Wno-enum-compare-switch -o CMakeFiles/cmTryCompileExec1290590984.dir/src.cxx.o -c /home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx
+/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1plus: warning: unrecognized command line option "-Wno-enum-compare-switch" [enabled by default]
+Linking CXX executable cmTryCompileExec1290590984
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1290590984.dir/link.txt --verbose=1
+/usr/bin/c++      -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Winit-self -Wpointer-arith -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-comment -Wno-missing-field-initializers -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-deprecated -Wno-missing-declarations -Wno-shadow -Wno-unused-parameter -Wno-unused-local-typedefs -Wno-sign-compare -Wno-sign-promo -Wno-undef -Wno-ignored-qualifiers -Wno-extra -Wno-unused-function -Wno-invalid-offsetof  -O3 -DNDEBUG     -Wl,--gc-sections CMakeFiles/cmTryCompileExec1290590984.dir/src.cxx.o  -o cmTryCompileExec1290590984 -rdynamic 
+make[1]: Leaving directory `/home/vagrant/hackathon_files/opencv-3.4.5/build/CMakeFiles/CMakeTmp'
+
+===== END =====
+
