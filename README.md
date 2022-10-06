@@ -1,5 +1,5 @@
 |---VisCoin---|
 
-This project was a blockchain incentivization system for drivers, serving the solution to the problem of driver fatigue and drowsiness by detecting the signs for such scenarios using OpenCV and calculating \& storing a custom drowsiness index that is used to reward or deduct the driver's balance of a custom coin called VisCoin, implemented using IPFS and blockchain, hence incentivizing the driver to preclude traffic and road danger.
+This project was aimed as a blockchain incentivization system for drivers and solution to the problem of driver drowsiness. Signs for such scenarios were detected and quantified using OpenCV and empirical heuristics into a custom "drowsiness index" which was stored using IPFS. This metric was then used to reward or deduct a custom coin i.e. "VisCoin" from the driver's digital wallet, using smart contracts developed with Solidity.
 
-Finalist at the Pragyan Hackathon 2019
+Runner-up at the Pragyan Hackathon 2019
